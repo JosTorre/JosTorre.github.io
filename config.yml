@@ -2,6 +2,20 @@ baseURL: http://jostorre.me/
 languageCode: en-us
 title: Jose's Universe
 theme: 'PaperMod'
+googleAnalytics: G-M357ERHZ0B
+
+ShowReadingTime: true
+ShowShareButtons: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: false
+disableSpecial1stPost: false
+disableScrollToTop: false
+comments: false
+hidemeta: false
+hideSummary: false
+showtoc: false
+tocopen: false
 
 params:
   homeInfoParams:
@@ -21,3 +35,11 @@ params:
       url: 'https://www.goodreads.com/jostorre'
     - name: Paypal
       url: 'https://www.paypal.me/zetorre'
+    - name: Spotify
+      url: 'https://open.spotify.com/user/jostorre'
+
+menu:
+    main:
+        - identifier: archives
+          name: archives
+          url: /content/
