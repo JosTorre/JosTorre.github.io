@@ -2,3 +2,22 @@ baseURL: http://JosTorre.github.io/
 languageCode: en-us
 title: Jose's Universe
 theme: 'PaperMod'
+
+params:
+  homeInfoParams:
+    Title: This is it
+    Content: Hello there, this is my personal website
+
+  socialIcons:
+    - name: Instagram
+      url: 'https://www.instagram.com/jostorre/'
+    - name: Linkedin
+      url: 'https://www.linkedin.com/in/zetorre/'
+    - name: Email
+      url: 'mailto:torre.avilais@gmail.com'
+    - name: Snapchat
+      url: 'https://snapchat.com/add/joe_torre'
+    - name: Goodreads
+      url: 'https://www.goodreads.com/jostorre'
+    - name: Twitter
+      url: 'https://google.com'
