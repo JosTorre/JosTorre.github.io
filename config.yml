@@ -19,3 +19,5 @@ params:
       url: 'https://snapchat.com/add/joe_torre'
     - name: Goodreads
       url: 'https://www.goodreads.com/jostorre'
+    - name: Paypal
+      url: 'https://www.paypal.me/zetorre'
