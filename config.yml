@@ -40,6 +40,12 @@ params:
 
 menu:
     main:
-        - identifier: archives
-          name: archives
-          url: /content/
+        - identifier: thoughts
+          name: thoughts
+          url: /thoughts/
+        - identifier: travels
+          name: travels
+          url: /travels/
+        - identifier: me
+          name: about me
+          url: /about.md
