@@ -48,4 +48,4 @@ menu:
           url: /travels/
         - identifier: me
           name: about me
-          url: /about.md
+          url: about
