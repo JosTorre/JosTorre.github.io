@@ -2,6 +2,7 @@ baseURL: http://jostorre.me/
 languageCode: en-us
 title: Jose's Universe
 theme: 'PaperMod'
+favicon: 'josicon.ico'
 googleAnalytics: G-M357ERHZ0B
 
 ShowReadingTime: true
@@ -21,6 +22,7 @@ params:
   homeInfoParams:
     Title: This is it
     Content: Hello there, this is my personal website.
+  
 
   socialIcons:
     - name: Instagram
