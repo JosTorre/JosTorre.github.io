@@ -20,7 +20,7 @@ tocopen: false
 params:
   homeInfoParams:
     Title: This is it
-    Content: Hello there, this is my personal website
+    Content: Hello there, this is my personal website.
 
   socialIcons:
     - name: Instagram
@@ -29,17 +29,23 @@ params:
       url: 'https://www.linkedin.com/in/zetorre/'
     - name: Email
       url: 'mailto:torre.avilais@gmail.com'
-    - name: Snapchat
-      url: 'https://snapchat.com/add/joe_torre'
     - name: Goodreads
       url: 'https://www.goodreads.com/jostorre'
     - name: Paypal
       url: 'https://www.paypal.me/zetorre'
     - name: Spotify
       url: 'https://open.spotify.com/user/jostorre'
+    - name: Twitter
+      url: 'https://twitter.com/zeptorre'
 
 menu:
     main:
+        - identifier: resources
+          name: resources
+          url: resources
+        - identifier: proj
+          name: projects
+          url: projects
         - identifier: thoughts
           name: thoughts
           url: /thoughts/

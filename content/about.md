@@ -8,17 +8,18 @@ So, this is my first draft. That means... don't take it too seriously and don't 
 
 It's hard to summarize a person in words, because persons are infinite.
 
-What can I say about myself? That is way better to get to know me in person. But maybe I can share something new or not that obvious through this post.
+What can I say about myself? - That is way better to get to know me in person. But maybe I can share something new or not that obvious about me through this post.
+
 Here some facts about me:
 
-### I'm + (bulletpoint)
+#### I'm + _bulletpoint_
 
-- dynamic: I like to stay always active. Maybe it's thanks to FOMO or overthinking that I like always be doing something. Life happens once and the fear of looking back to an unlived life frightens me.
-- social: even though sometimes I may appear lonely I need people. I love befriending new people and learning from them. Fun fact: I don't like eating alone.
-- curious: I always like to learn new things, to visit new places, to experience new stuff. 
-- deep: It is normal for me to lead almost any conversation to a deep talk. In some way, there, at deep talks can you know people better.
-- spontaneous: Maybe because my background in Mexico, I have learnt to improvise and always be ready for almost any situation.
+- *dynamic*: I like to stay always active. Maybe it's thanks to FOMO or to overthinking, that I like always be 'on the move'. Life happens once and the fear of looking back to an unlived life frightens me.
+- *social*: even though sometimes I may appear lonely, I do need people. I love befriending new persons and learning from them. Fun fact: I don't like eating alone.
+- *curious*: I always like to learn new things, to visit new places, to experience new stuff and to understand. 
+- *deep*: it is normal for me to lead almost any conversation to a deep talk. In some way, there, at deep talks one may get to know people better.
+- *spontaneous*: maybe because of my background in Mexico, I have learnt to improvise, adapt and always be ready for almost any situation.
 
-So much for now... Im going to go sleep and wake up early to book a damn cabin somewhere in the middle of nowhere in Norway. 
+So much for now... I'm going to go sleep and wake up early to book a damn cabin somewhere in the middle of nowhere in Norway. 
 
 Buneas noches Zzz...
