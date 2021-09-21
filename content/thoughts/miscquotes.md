@@ -11,6 +11,7 @@ This is a list of quotes that I've found during my time living. If they are in t
 Quotes are a great source of inspiration and may be used as an excuse to change our way of living for better.
 Following, my quote knowledge base:
 
+- *'Dont forget that you can: start late, start over, be unsure, act different, try and fail, and even so have success'* -365 nice days
 - *'It is the possibility of making a dream come true, that makes life interesting'* -Paulo Coehlo.
 - *'If you're not part of the solution, you're part of the problem'* -P. Alejandro Espejo.
 - *'It is not about where, but who with'* -Jose Torre.
