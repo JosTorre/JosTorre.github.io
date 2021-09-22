@@ -12,13 +12,13 @@ What can I say about myself? - That is way better to get to know me in person. B
 
 Here some facts about me:
 
-#### I'm + _bulletpoint_
+#### I'm + *bulletpoint*
 
-- *dynamic*: I like to stay always active. Maybe it's thanks to FOMO or to overthinking, that I like always be 'on the move'. Life happens once and the fear of looking back to an unlived life frightens me.
-- *social*: even though sometimes I may appear lonely, I do need people. I love befriending new persons and learning from them. Fun fact: I don't like eating alone.
-- *curious*: I always like to learn new things, to visit new places, to experience new stuff and to understand. 
-- *deep*: it is normal for me to lead almost any conversation to a deep talk. In some way, there, at deep talks one may get to know people better.
-- *spontaneous*: maybe because of my background in Mexico, I have learnt to improvise, adapt and always be ready for almost any situation.
+- _dynamic_: I like to stay always active. Maybe it's thanks to FOMO or to overthinking, that I like always be 'on the move'. Life happens once and the fear of looking back to an unlived life frightens me.
+- _social_: even though sometimes I may appear lonely, I do need people. I love befriending new persons and learning from them. Fun fact: I don't like eating alone.
+- _curious_: I always like to learn new things, to visit new places, to experience new stuff and to understand. 
+- _deep_: it is normal for me to lead almost any conversation to a deep talk. In some way, there, at deep talks one may get to know people better.
+- _spontaneous_: maybe because of my background in Mexico, I have learnt to improvise, adapt and always be ready for almost any situation.
 
 So much for now... I'm going to go sleep and wake up early to book a damn cabin somewhere in the middle of nowhere in Norway. 
 
