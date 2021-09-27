@@ -5,3 +5,4 @@ draft: false
 ---
 
 Hi I'm currently in Trondheim, Norway. I'll be writing about this soon.
+ TBW (to be written).
