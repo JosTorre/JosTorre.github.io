@@ -21,7 +21,7 @@ tocopen: false
 params:
   homeInfoParams:
     Title: This is it
-    Content: Hello there, this is my personal website.
+    Content: Hello there, this is my personal website. If you really want to know about me, the first thing you’ll probably want to know are my socials...
   
 
   socialIcons:
@@ -42,10 +42,10 @@ params:
 
 menu:
     main:
-        - identifier: resources
-          name: resources
-          url: resources
-        - identifier: proj
+        - identifier: assets
+          name: assets
+          url: /assets/
+        - identifier: projects
           name: projects
           url: projects
         - identifier: thoughts

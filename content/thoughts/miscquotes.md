@@ -11,6 +11,7 @@ This is a list of quotes that I've found during my time living. If they are in t
 Quotes are a great source of inspiration and may be used as an excuse to change our way of living for better.
 Following, my quote knowledge base:
 
+- *'Life can only be understood backwards; but it must be lived forwards'* -Kierkegaard
 - *'Dont forget that you can: start late, start over, be unsure, act different, try and fail, and even so have success'* -365 nice days
 - *'You can't always get what you want, but if you try sometimes, you might find, you get what you need'* -Mick Jagger
 - *'Every moment of one's existence one is growing into more or retreating into less.'* -Norman Mailer
