@@ -21,7 +21,7 @@ tocopen: false
 params:
   homeInfoParams:
     Title: This is it
-    Content: Hello there, this is my personal website. If you really want to know about me, the first thing you’ll probably want to know are my socials...
+    Content: Hello there, this is my personal website. My website is an MVP, so it's normal if you find unfinished posts. It is just better to start with something than to wait ages until something is completely ready; Nothing is never completely finished. I  If you really want to know about me, the first thing you’ll probably want to know are my socials...
   
 
   socialIcons:
