@@ -3,6 +3,12 @@ title: "Me Myself and I"
 date: 2021-08-31T15:50:19+02:00
 draft: false
 ---
+If you're reading this, I suppose, is because you got interested and wanted to know more. In this case thanks for gifting me your time and congratulations.
+
+What you see, has been created because of two main reasons: 
+
+1. The need of sharing with others.
+2. A great person who inspired me to do this in order to save thoughts and knowledge in order to improve, to whom I dedicate this website.
 
 So, this is my first draft. That means... don't take it too seriously and don't judge this that hard lol.
 
