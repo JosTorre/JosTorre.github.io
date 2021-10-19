@@ -12,6 +12,7 @@ Quotes are a great source of inspiration and may be used as an excuse to change 
 Following, my quote knowledge base:
 
 - *'Life can only be understood backwards; but it must be lived forwards'* -Kierkegaard
+- *'Consult not your fears but your hopes and dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do'* -St. John XXIII
 - *'Dont forget that you can: start late, start over, be unsure, act different, try and fail, and even so have success'* -365 nice days
 - *'You can't always get what you want, but if you try sometimes, you might find, you get what you need'* -Mick Jagger
 - *'Every moment of one's existence one is growing into more or retreating into less.'* -Norman Mailer
@@ -22,7 +23,6 @@ Following, my quote knowledge base:
 - *'Each man establishes himself inheritor of his own actions and his own merits'* -unknown
 - *'The dosis makes the venom'* -unknown
 - *'If you judge people, you have no time to love them'* -Mother Theresa
-- *'May you have enough happiness to keep you sweet, trials to keep you strong, sorrow to keep you human, failure to keep you humble, success to keep you eager, friends to give you comfort, wealth to meet your needs, enthusiasm to look forward, faith to banish depression, determination to make each day better than yesterday. May you have enough.'* -Mother Theresa
 - *'Don't doubt in darkness what you've seen in light'* -P. Chema
 - *'Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.'* -Mother Theresa
 - *'Kind words can be short and easy to speak, but their echoes are truly endless.'* -Mother Theresa
@@ -39,5 +39,6 @@ Following, my quote knowledge base:
 - *'He who has a why can bear almost any how'* -Nietsche
 - *'Was du erlebst, kann keine Macht in der Welt dir rauben'* (what you've experienced, no power in the world can take from you) -unknown poet
 - *'Is a pecularity of man that he can only live by looking to the future'* -Viktor Frankl
+- *'May you have enough happiness to keep you sweet, trials to keep you strong, sorrow to keep you human, failure to keep you humble, success to keep you eager, friends to give you comfort, wealth to meet your needs, enthusiasm to look forward, faith to banish depression, determination to make each day better than yesterday. May you have enough.'* -unknown
 
 So far goes the list. It'll be continuously updated.

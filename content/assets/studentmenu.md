@@ -11,15 +11,18 @@ Here are my meal ideas as a student.
 
 # Ez Student Menü
 
-### Snacks
+## Snacks
 
 - __Special Peanut Butter Spread__
     - *Slice of bread with peanut butter and honey.*
-- __Unsalted Peanuts__
-- _..._
+- __Just Nuts__
+    - *May them be peanuts, cashews or even pistacchios.*
+- __Dark Chocolate__
+    - *70% Cacao Dark Chocolate.*
+- __Fiber Cookies__
+    - *Just wheat or oat fiber cookies.*
 
-
-### Breakfast
+## Breakfast
 
 - __French Toast__
     - *Bread dipped in scrambled eggs and milk, then fried with butter and served with maple syrup and strawberries.*
@@ -27,9 +30,56 @@ Here are my meal ideas as a student.
     - *Low fat yogurt with granola or fruits and a touch of honey.*
 - __Daily Oats__
     - *Regular oats heated with low fat milk, served with fruits and a touch of honey.*
-- __Hard Egg Toast__
-    - *Boiled eggs served with tomato, avocado and a toast.*
+- __Main Breakfast__
+    - *Boiled eggs served with tomato, avocado, salami and a toast.*
+- __Norwegian Waffles__
+    - *Waffles spreaded with butter and a slice of Brunost on top.*
+- __Start Milkshake__
+    - *Soy milk, banana, chia seeds, yoghurt and peanut butter (protein powder can be additionally added).*
 
-### Lunch
+## Lunch
 
-### Dinner
+- __Sincronizadas__
+    - *Folded tortilla with melted cheese and slices of ham inside.*
+- __Salmon Crispbreads__
+    - *Crisp breads with Philadelphia creamcheese and smoked salmon slices on top.*
+- __Pathé Bread__
+    - *Slice of bread spreaded with pathé.*
+- __Smoked Salmon Sandwich__
+    - *Sliced smoked salmon with olive oil drops, parmessan cheese foils, and arugula leaves.*
+- __Grilled Cheese Sandwich__
+    - *Toasted bread with a combination of 3 melted cheeses (can be: cheddar, edam, camambert, gouda, etc.).*
+- __Easy Toast__
+    - *Cheese and Ham toasted sandwich.*
+- __Panini__
+    - *Cheese and spicy pepperoni toasted sandwich with tomato sauce inside.*
+- __Tuna-Avocado__
+    - *Paste made of tuna (can) with avocado and mayonese in a wrap or sandwich.*
+- __Cachapas__
+    - *Venezuelan folded pancake made out of corn flour with melted cheese inside.*
+- __Curry Wurst__
+    - *Frankfurter sausage with a curry + ketchup sauce and a slice of bread.*
+
+## Dinner
+
+- __Norwegian Tacos__
+    - *Tacos with a filling of minced meat, corn, beans, lettuce, cucumber, and jalapeños.*
+- __Pasta__
+    - *Spaghetti or Fusili with Barilla pasta sauce.*
+- __Huevos Rotos__
+    - *Boiled and slightly fried potato wedges spiced with paprika and served with sunny side up eggs.*
+- __Egg-Rice__
+    - *Wild basmati rice with served with sunny side up eggs.*
+- __Tuna Pasta__
+    - *Fusili with pesto sauce, mixed with cherry tomatoes, feta cheese and tuna (can).*
+- __Nice Salmon__
+    - *Salmon filet spiced with rosemary, and pepper, covered with a butter lemon sauce, cooked in the oven.*
+- __Fish Burger__
+    - *Fried fish filet burger with arugula and siracha mayo sauce.*
+
+## Drinks
+
+- __Mate__
+- __Chai__
+- __Coffee__
+- __Beer__
