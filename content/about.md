@@ -25,6 +25,7 @@ Here some facts about me:
 - __curious__: I always like to learn new things, to visit new places, to experience new stuff and to understand. 
 - __deep__: it is normal for me to lead almost any conversation to a deep talk. In some way, there, at deep talks one may get to know people better.
 - __spontaneous__: maybe because of my background in Mexico, I have learnt to improvise, adapt and always be ready for almost any situation.
+- __resourceful__: I'll find a way to make it happen.
 
 So much for now... I'm going to go sleep and wake up early to book a damn cabin somewhere in the middle of nowhere in Norway. 
 

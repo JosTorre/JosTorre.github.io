@@ -59,6 +59,8 @@ Here are my meal ideas as a student.
     - *Venezuelan folded pancake made out of corn flour with melted cheese inside.*
 - __Curry Wurst__
     - *Frankfurter sausage with a curry + ketchup sauce and a slice of bread.*
+- __Tabbouleh__
+    - *Libanese salad to be mixed with falafel or humus in a tortilla.*
 
 ## Dinner
 
@@ -76,6 +78,8 @@ Here are my meal ideas as a student.
     - *Salmon filet spiced with rosemary, and pepper, covered with a butter lemon sauce, cooked in the oven.*
 - __Fish Burger__
     - *Fried fish filet burger with arugula and siracha mayo sauce.*
+- __Shrimp Quesadilla__
+    - *Marinated fried shrimps in a tortilla with melted cheese, avocado and siracha mayo sauce.*
 
 ## Drinks
 
