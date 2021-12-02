@@ -12,6 +12,8 @@ and
 
 If we don't have an objective we'll never be able to move forward and therefore won't reach nowhere. If we don't improve as persons, we'll get worse. In life there's no standby where we can stay, because life goes on with or without us.
 
+![life plan](/pics/lplan.jpg)
+
 Therefore to have a direction, a goal, a plan for our lifes is good and necessary. Here, I propose the format of a life plan. 
 It is important that the objectives are described according to the SMART methodology and that the time for achieving them lies in a near future. In other words, the changes in our way of living should be seen every week. 
 

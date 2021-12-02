@@ -4,7 +4,9 @@ date: 2021-09-20T10:39:47+02:00
 draft: false
 ---
 
-## It's not about where, but who with
+### It's not about where, but who with
+
+![cold run](/pics/people.jpg)
 
 There's a reason why I always save contacts with name and surname; people are important.
 People are infinite - for sure you might have also heard the phrase 'each person is a world'. Well, for me this phrase is very true. 

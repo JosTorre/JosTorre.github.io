@@ -16,6 +16,8 @@ It's hard to summarize a person in words, because persons are infinite.
 
 What can I say about myself? - That is way better to get to know me in person. But maybe I can share something new or not that obvious about me through this post.
 
+![me](/pics/me.jpg)
+
 Here some facts about me:
 
 #### I'm + *bulletpoint*

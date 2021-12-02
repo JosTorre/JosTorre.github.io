@@ -4,7 +4,7 @@ date: 2021-11-05T12:11:51+01:00
 draft: false
 ---
 
-## The Morning Loading
+![sunrise](/pics/morning.jpg)
 
 Before officially starting a day, I think it is a great idea to consider and reflect a few things. Here I propose some questions to ask before going out of our rooms:
 

@@ -4,12 +4,12 @@ date: 2021-09-30T12:58:36+02:00
 draft: false
 ---
 
+![menu](/pics/menustudent.JPG)
+
 Meal ideas for Student life.
 
 In  my daily struggle of not knowing what to cook / eat every day as a student, I think making a menu is a good idea of organizing meals.
 Here are my meal ideas as a student.
-
-# Ez Student Menü
 
 ## Snacks
 

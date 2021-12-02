@@ -4,7 +4,9 @@ date: 2021-08-30T10:32:50+02:00
 draft: false
 ---
 
-## This is LYFE
+### This is LYFE
+
+![lyfe](/pics/lyfe.jpg)
 
 Life should be written with a Y, to remid us of the joyfullness we should have while living (because the letter Y looks like a person with the arms lifted up to the sky), and to remind to ask ourselves why we are here in this LYFE.
 

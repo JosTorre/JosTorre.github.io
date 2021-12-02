@@ -4,7 +4,7 @@ date: 2021-11-05T12:11:40+01:00
 draft: false
 ---
 
-## The Night Balance
+![night aurora](/pics/night.jpg)
 
 At night, when the day is gone and nothing is left but to sleep to be fully charged for the next day, the next challenge, it is worth having a small reflection to overview how our day has been and how have we been. 
 Here I propose some questions to reflect before going to bed in order to improve:

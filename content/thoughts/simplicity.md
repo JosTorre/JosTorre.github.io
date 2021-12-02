@@ -5,6 +5,8 @@ draft: false
 ---
 --Still a Draft--
 
+![simplicity](/pics/simplicity.jpg)
+
 Stay minimalist; it'll help you focus on the important things.
 
 Last year I only had one pair of shoes.
