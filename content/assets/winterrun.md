@@ -13,17 +13,18 @@ With the following gear I would dare to run from temperatures of -1°C to -12°C
 ### Gear
 
 - Technical beanie
-- Running glasses
 - Bandana
 - Thermal long sleve baselayer t-shirt
 - Running t-shirt
 - Running gloves
+- Running short tights
 - Thermal baselayer legging
-- Winter running tights
 - Socks
 - Winter running spikes
 - Running shoes
 - Wind + Waterproof lightjacket
+- Lipbalm
 
-*If you still find it very cold, you can add a thin cotton hoodie, nevertheless I always get very warm after 10 minutes of running without a hoodie. 
-*If your toes get cold easily, you can wear wool technical running socks. 
+*If you still find it very cold, you can add a thin cotton hoodie, nevertheless I always get very warm after 10 minutes of running without a hoodie. \
+*If your toes get cold easily, you can wear wool technical running socks. \
+*If it is snowing or very windy, you might want to consider sme running glasses.

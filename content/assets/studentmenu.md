@@ -36,6 +36,8 @@ Here are my meal ideas as a student.
     - *Waffles spreaded with butter and a slice of Brunost on top.*
 - __Start Milkshake__
     - *Soy milk, banana, chia seeds, yoghurt and peanut butter (protein powder can be additionally added).*
+- __Cheese and Bread__
+    - *Sliced bread with cheese. Yes, that could be a student breakfast.*
 
 ## Lunch
 
@@ -80,6 +82,8 @@ Here are my meal ideas as a student.
     - *Fried fish filet burger with arugula and siracha mayo sauce.*
 - __Shrimp Quesadilla__
     - *Marinated fried shrimps in a tortilla with melted cheese, avocado and siracha mayo sauce.*
+- __Flammkuchen__
+    - *Backed pizza dough with spreaded creme fraiche and bacon and onion as topping.*
 
 ## Drinks
 
