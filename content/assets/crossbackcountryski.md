@@ -12,10 +12,10 @@ This is based on my experience. Following, I describe the conditions as well as 
 
 ## Context
 
-- Location: Langlandsvollen, Trondelag, Norway, in the middle of nowhere.
+- Location: Langlandsvollen, Trondelag, Norway, in the middle of Norway (lol).
 - Temperature: -12°C to -15°C
-- Weather: Clear sky
-- Distance to Goal: 6km (geodesic distance).
+- Weather: Clear sky / no wind.
+- Distance to Goal: 6km (geodesic).
 
 We, a group of 4 people, were to reach a cabin in the middle of the wilderness to spend the night there and come back next day. We planned to go there by cross country skiing. Weather conditiones were kind of extreme as we had very cold temperatures and a lot of snow. We had the coordinates of the cabin and that was basically it.
 

@@ -7,5 +7,6 @@ draft: false
 Just if you were wondering... here's my wishlist:
 
 - [Fjallraven Anorak](https://www.fjallraven.com/no/no/herre/jakker/vinterjakker/singi-anorak-m?v=F82248%3a%3a7323450536237)
+- [David Clark Headset](https://store.davidclark.com/computer-headsets)
 - [Thermo]()
 - [Wool Sweater]()
