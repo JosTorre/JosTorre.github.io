@@ -30,6 +30,7 @@ Here some facts about me:
 - __deep__: it is normal for me to lead almost any conversation to a deep talk. In some way, there, at deep talks one may get to know people better.
 - __spontaneous__: maybe because of my background in Mexico, I have learnt to improvise, adapt and always be ready for almost any situation.
 - __resourceful__: I'll find a way to make it happen.
+- __mexican__: I grew up in a culture of friendly, resielent people who dream big and make fun of death.
 
 So much for now... I'm going to go sleep and wake up early to book a damn cabin somewhere in the middle of Norway. 
 

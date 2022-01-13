@@ -78,3 +78,5 @@ _How to use this?_
 
 
 You can copy paste this layout in any text editing application. I'll try to make it more accessible in the future.
+
+* Based on the RC Lifeplan.
