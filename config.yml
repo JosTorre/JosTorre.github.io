@@ -1,6 +1,6 @@
 baseURL: https://jostorre.me/
 languageCode: en-us
-title: There
+title: Jo's odyssey
 theme: 'PaperMod'
 favicon: 'josicon.ico'
 googleAnalytics: G-M357ERHZ0B
@@ -20,7 +20,7 @@ tocopen: false
 
 params:
   homeInfoParams:
-    Title: You are there
+    Title: There you are
     Content: Hello there, this is my personal website. My website is an MVP, so it's normal if you find unfinished posts. It is just better to start with something than to wait ages until something is completely ready; Nothing is ever completely finished. All photos are self produced. <br> If you really want to know [about me](https://jostorre.me/about), the first thing you’ll probably want to know are my socials...
   
 
