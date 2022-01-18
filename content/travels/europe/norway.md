@@ -4,7 +4,7 @@ date: 2022-01-10T00:45:24+02:00
 draft: false
 ---
 
-![noreg](/pics/noreg.jpg)
+![noreg](/pics/noreg.jpg "Yea, that's me")
 
 *To the Ketchup Koiene, who made this semester unique and amazing.*
 
@@ -22,7 +22,7 @@ Norwegians in general are really pragmatic. For example, they won't greet you if
 Nevertheless, if there's anything you need help with and you express it, they'll be happy to help and they'll make your problem their own. 
 So, be the one to take the first step if you want to befriend noregians, or go to a party. Under the influence of alcohol they totally open themselves and become friendly. Parties are the chance to make friends. If you want to understand more about norwegian culture, you should watch this [TED Talk](https://www.youtube.com/watch?v=GhA9eypocE0).
 
-![geirangerfjord](/pics/geiranger.jpg)
+![geirangerfjord](/pics/geiranger.jpg "Geirangerfjord")
 
 The country is incredible, with so few inhabitants, it is possible to really enjoy the nature and peace. Furthermore, its location and nearness to the sea make the whole country have mezmerizing landscapes that seem taken out from a sci-fi movie. Norway is specially known for its Fjords and for the Lofoten.
 
@@ -30,21 +30,21 @@ There are two official languages spoken in Norway: Bokmål and Nynorsk. Addition
 
  ## Trondheim
 
-![tyholt](/pics/tyholt.jpg)
+![tyholt](/pics/tyholt.jpg "View from the pizza tower")
 
 I must say I already miss Trondheim, what a nice city. Before coming, I hadn't ever heard about it. So it was a big surprise to suddenly be there.
 Trondheim started being a viking port and it has been developing sice then. It is located in a fjord and the Nidar river flows through it making a kind of peninsula out of the city's downtown. 
 Personally, I was living in Moholt Studentby (which translates to Moholt student village/city). This is southern from the city center, at a higher elevation because of the hills. 
 I must say that I found Trondheim to be the best student city I've ever been in. For its relative small size, it offers so much. There are shops, malls, multiple bars, restaurants, sport centers, gyms, monuments, as well as, history, an old town, an old gothic cathedral, and a lot of surrounding nature. To the west theres Bymarka, a huge nature reserve where one can hike and cross country ski. To the north-east there's Korsvika beach and a long walking path along the coast. To the east there's another nature reserve with a really nice waterfall. To the south there's also another nature reserve with a couple of lakes. And I must say there might be so many other spots to mention where anybody can go for a hike and discover. But my point is, yes, there's a lot of nature around Trondheim.
 
-![korsvika](/pics/korsvika.jpg)
+![korsvika](/pics/korsvika.jpg "The legendary Korsvika beach :')")
 
 The city is really well connected by bus, but the airport itslef lies in another city 40 min away by bus (more or less). If you're going to Trondheim keep in mind that the bus from the airport to the city takes quite long and it's about 120 NOK for students (one way). If not, there's the possibility to take a train from the airport for about 80 NOK. But the express buses come and go quite often. They are normally the best option.
 The buses in the city, are really good and electric. It is hard to get a physical ticket, as almost everything in Norway works by card or Vipps (a norwegian kind of inter-banking Paypal service), and for the bus there's an app where you're supposed to buy the tickets. The same app helps you to find your connections from pint A to B. Note: beware that even if Google Maps gives simmilar results for bus connections, they might be wrong. Always use the [AtB App](https://www.atb.no/AtB-app) when travelling by bus, or you can buy train tickets on [VY's website](https://www.vy.no/). Trains are a good option when traveling either to Bodø or Oslo. But there's always the option to fly, which might be the most convenient option. Anyhow, remember that when buying tickets, there's most of the times a reduced student price.
 
 About the weather in Trondheim, I find that for being that north the weather is very friendly. During Winter Semester (August - December) I can say that there was a little bit of everything. The highest temperature I had in Trondheim during this period might have been around 12°C in August. Nevertheless, there were many sunny and blue sky days. But sometimes it can stay cloudy for a whole week. Also, it is very probable that it rains, but most of the time is light rain, not pouring. So please bring a rain jacket with you. And of course, between November and December you can get snow.
 
-![daylighttrond](/pics/daylighttrond.jpg)
+![daylighttrond](/pics/daylighttrond.jpg "A sunny day in Trondheim :D")
 
 Now, my favourite thing to talk about, when talking about weather in Trondheim: Hours of Light! For me, this was a really impressive experience. As you may already know, Trondheim's location in the northern hemisphere, makes it have very few sunlight hours during winter. The picture above shows a normal winter day in Trondheim at 12:33pm. Just before my departure, sunrise was happening at 10:00 and sunset at 14:30, which is pretty short. This short duration of the days happens because of the inclination the earth has towards the sun, and therefore, if you're in Trondheim, you'll always see the sun very low in the horizon (during winter). This gives the effect of the whole day being either a long morning or a long afternoon. This short daylight makes it easy to capture really nice pictures as all seem to be taken either at sunrise or sunset, becuse the sun never rises that high. If there are some clouds at the horizon, you might not see the sun at all. I must say, that this is a very interesting feeling as an exchange student. 
 Additionally, norwegians advice on taking Omega3 and Vitamin D supplement everyday to gain that missing energy from the sun.
@@ -87,7 +87,7 @@ __Sightseeing__:
 - __Torvet__ (mainsquare): Here some main events happen, like concerts and the christmass market.
 - __Gamle Bybro__: The famous walking bridge in Trondheim from which really nice pictures of the river can be made.
 
-![trndbridge](/pics/trndbridge.jpg)
+![trndbridge](/pics/trndbridge.jpg "Bridge in Bakklandet")
 
 __Other__:
 
@@ -101,7 +101,7 @@ __Other__:
 
 As you might already know, Norway is one of the top coffee consuming countries per capita, occupying the 2nd place worldwide. And as you might not know, I'm a coffee fan.
 
-![twcoffee](/pics/twcoffee.jpg)
+![twcoffee](/pics/twcoffee.jpg "Me getting some coffein")
 
 So everything started by a post I made on Reddit asking for the best cafés in Trondheim. I received a couple of answers, and I gave myself the task of visiting every café that was suggested. Here I share my experience on those suggestions:
 
@@ -119,7 +119,7 @@ __Norges Teknisk-Naturvitenskapelige Universitet__
 
 Just this Winter semester 2021, there were aroung 1,800 international students making an exchange semester at the NTNU.
 
-![ntnucampus](/pics/ntnucampus.jpg)
+![ntnucampus](/pics/ntnucampus.jpg "Gløs during Autumn")
 
 So there is a lot to be said, but I'll try my best.
 
@@ -229,7 +229,7 @@ In Norway one may only buy alcoholic beverages from Mon - Fri from 9AM - 8PM and
 
 Of course, as most of the things in Norway, alcohol is expensive. No wonder why everyone thinks twice before gifting a beer during a party (What is also rare to see). The cheapest beer for 20 NOK you can find at supermarkets is *BARE ØL*, which in my opinion is a pretty decent beer. Additionally for a couple of more crowns, there's *Dahls* which is brewed in Trondheim and has an amazing Juløl (christmas beer), and *Frydenlund* which is also bought by norwegians. If not, you can always buy *Rignes*, which is very popular as well.
 
-![trndbeer](/pics/trndbeer.jpg)
+![trndbeer](/pics/trndbeer.jpg "A home-brewed beer")
 
 If not beer then Wine. At Vinomonopolet you can buy wine. The best for partys is to buy a box of wine, which has a plastic bag containing the equivalent of 3 bottles of wine and a dispenser. A really interesting concept I must say. This might cost around 300 NOK depending on the brand. The cheapest one is from *Concha y Toro*.
 
@@ -267,7 +267,7 @@ If you like hiking you should definitely check [this website](https://ut.no/) to
 What many are expecting when comming to Norway. Do whatever you want, but never book a tour to watch the northern lights (I never did), but there's no greatest scam. Nobody knows with certainty when are they going to appear.
 Of course there're some forecasts on when are they most probably going to appear, but they are just accurate some hours before. 
 
-![moholtborealis](/pics/moholtborealis.jpg)
+![moholtborealis](/pics/moholtborealis.jpg "If you don't know what this is, read again")
 
 So according to me there are 6 main factors that will affect you northern light experience, from which the 1st is pure luck.
 
@@ -295,28 +295,30 @@ Of course the best way to travel in Norway is by car. Rent a car if possible and
 Finally, here I leave some pictures of the trips I made. Details I keep for myself as they are unique personal experiences. But feel free to ask me any questions about them on my socials.
 
 - __Bergen__
-![bergen](/pics/bergen.jpg)
+![bergen](/pics/bergen.jpg "Me again")
 > *Hike next to Bergen*
 - __Atlantic Ocean Road__
-![aor](/pics/aor.jpg)
-> *This is not the famous Atlantic Ocean Road*
+![aor](/pics/aor.jpg "almost like Hawaii")
+> *This is not the famous Atlantic Ocean Road, but nearby*
 - __Cabin Trip__
-![ct1](/pics/ct1.jpg)
+![ct1](/pics/ct1.jpg "Jumping me")
 > *NTNUI Cabin trip with friends*
 - __Lofoten__
-![lofoten1](/pics/lofoten1.jpg)
+![lofoten1](/pics/lofoten1.jpg "really cool right?")
 > *Mezmerizing view of the Fløya hike*
 - __Oslo__
-![oslo](/pics/oslo.jpg)
+![oslo](/pics/oslo.jpg "Ehmm not my best pic")
 > *Oslo's Opera House*
 - __Hvaler__ 
-![hvaler](/pics/hvaler.jpg)
+![hvaler](/pics/hvaler.jpg "The picture is actually upside down")
 > *Between islands on Hvaler*
+
+*The picture is not upside down lol*
 - __Oppdal__
-![oppdal](/pics/oppdal.jpg)
+![oppdal](/pics/oppdal.jpg "Photo was taken without my consent")
 > *Waterfall during hike*
 - __Åre__
-![ore](/pics/ore.jpg)
+![ore](/pics/ore.jpg "It is pronounced 'Ore'")
 > *The famous Ski trip*
 
 ## Lessons Learned
