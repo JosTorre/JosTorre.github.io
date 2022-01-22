@@ -59,7 +59,7 @@ __Restaurants__:
 
 - __Tyholt Tower__: A tower, which at the top has an Egon restaurant with an amazing view of Trondheim and the Fjord. It is great for sunsets and at certain hours there's a pizza buffet. Expect little from the buffet as the pizzas are simmilar to frozen pizzas and there are not many varieties of them, but it is worth going there as it is 'cheap' (for norwegian standards) and for the view.
 - __Superhero Burger__: Very known place among students to go and have a burger (simmilar to a shake shack burger quality), but expensive. A combo with fries and soda is around 20 EUR.
-- __Golden Kebab__: Best Kebab in town! It might be one the most expensive kebabs you'll ever buy, but it tastes really good. The size is bigger than a normal kebab and has more meat than usual. It is next to some clubs, so ot is the best option after clubbing. 
+- __Golden Kebab__: Best Kebab in town! It might be one the most expensive kebabs you'll ever buy, but it tastes really good. The size is bigger than a normal kebab and has more meat than usual. It is next to some clubs, so it is the best option after clubbing. 
 - __Grano__: The only pizza in town that was certified by italians to be authentic. At some hours there's a discount, when you can buy a pizza for a reduced price of 11EUR.
 
 __Pubs__:
@@ -75,7 +75,7 @@ __Clubs__:
 - __Downtown__: My favourite club in Trondheim. It has two floors with different music. The lower floor plays 80's, 90's and classics, whereas the upper floor has more electric music. Entry costs around 11EUR. Some weekdays are cheaper.
 - __Heidi's__: One of the most known clubs as there are filiales in other cities like Oslo. I dind't go to the Trondheim one, but went to the one in Oslo. I remember that entry was a little more expensive than Downtown, but I had a really nice time.
 - __Diskoteket__: More like a bar, but at night you can dance and there's a DJ. Not the best place to party, but if you're looking for something between a bar and a club it might make the trick.
-- __Studentersamfundet__: A student association's building containing many bars and rooms with different atmospheres inside. When you go there party for the first time it is very probable that you'll get lost inside as it is like a labirynth. If you're a student you can buy a membership or even volunteer and get discount in beer and free entry to some events. Really good place to meet other students.
+- __Studentersamfundet__: A student association's building containing many bars and rooms with different atmospheres inside. When you go there party for the first time it is very probable that you'll get lost inside as it is like a labirynth. If you're a student you can buy a membership or even volunteer and get discount on beer and free entry to some events. Really good place to meet other students.
 
 __Sightseeing__:
 
@@ -113,6 +113,11 @@ So everything started by a post I made on Reddit asking for the best cafés in T
 
 *Fun fact: espressos are served with more water in Norway, when compared to italian espressos.*
 
+### Covid
+
+This semester we were really lucky. After some time with really strict entry restrictions in Norway, just a month before the semester's beginning, it was announced that international students would be able to travel to Norway. It is said easier than done, but I was afraid that the exchange wouldn't work out as the norwegian borders were closed before this announcement.
+During the semester we could taste what it felt like to live before covid. Thanks to the circumstances we were allowed to live without any restrictions. No masks and parties :D. We were even able to take flights without facemasks Ö!
+
 ## NTNU
 
 __Norges Teknisk-Naturvitenskapelige Universitet__
@@ -131,7 +136,7 @@ To begin, NTNU says it is the best university in Norway and I believe that (exce
 I found the teaching method interesting. For example, in one of the classes, we had to watch the prerecorded lectures by our own and then just attend to class to solve doubts about the studied topics. I found this very efficient. Most of my classes were at Elektro building (the university has an app: Mazeapp to be able to navigate inside the campus). The Information Systems and Networking faculty is to be found in this building.
 
 The campus is great, it is beautiful and there are many places for self study. There are at least two big canteens where you can have lunch and choose from a buffet. Whatever you serve yourself will be charged based on weight. There's even a coffee subscription for 11EUR with which you can get coffee in your termo for 10 NOK per refill (it wont be the best coffee, but it'll wake you up), and considering norwegian prices, this is quite cheap.
-Actually, constantly there are stands on the hallways from companies or student organizations, which as a rule offer free coffee. SO I don't know anymore if it was a good deal to buy the coffee subscription.
+Actually, constantly there are stands on the hallways from companies or student organizations, which as a rule offer free coffee. So I don't know anymore if it was a good deal to buy the coffee subscription.
 At NTNU there are many student organizations as well. For me, I joined Abakus (student organization for information systems). They organize their own events and publish them on their website.
 There's much to say, but I think I'm just missing a couple of things.
 
@@ -156,6 +161,7 @@ If you want to know one of my experiences in one of these cabins read my [post o
 - When planning a trip, make sure to book your gear on Bumerang's website in advance, before they get booked out.
 - Sign up early in the semester to NTNUI Sport Associations
 - Always ask for student discounts.
+- If you take a scooter home after party, be careful lol.
 
 ## Living there
 
@@ -176,6 +182,18 @@ Well there are a lot of students and there are many things for students. There's
 As for transport there are Scooters, from which the best are [Ryde](https://www.ryde-technology.com/), becasue they can be used at night most of the times. There are buses as well. To use them you need to download the AtB app to check the schedules and buy your tickets on the app as well. Buy the monthly tickets as they have some student discount.
 
 To live, there are mainly two options: Student housing and private accomodation. Student housing has some advantages and is easier to book if you get a booking code, and it'll be cheaper, but in private housing it'll be easier to host parties. Either of both will be fine, they just have different pros and cons.
+
+I stayed at a student housing and it was basically a shared flat. I had 3 flatmates. We shared kitchen and bathroom and everyone had their own descent-sized room. I was lucky as former persons that lived there got a sofa and a lot of kitchenware for the appartment. During my time there I had flatmates from different nationalities, which were from: Pakistan, Georgia, Norway, Ethiopia and China. Very multi-culti.
+
+Location was really good. GYM, Laundry, Bus stop, Loftet (meeting place for students), and one city library were just next to my building. Funnily, at the bottom of each building at Moholt there is a basement with either a student association or a student bar. There some parties are hosted.
+For example, in the Scuba Diving basement there's even a sauna.
+
+### Language
+
+As said before, almost everyone knows english, but of course, the best experience you'll have if you learn Bokmål. NTNU offers some free online courses that you can use. 
+Additionally, if you were wondering, theres a [website](https://tv.nrk.no/) where you can watch norwegian tv and series for free. If you plan to get to know better the culture or just practice some norwegian, this is a great opportunity.
+
+I found funny the accent norwegians have. They accentuate the last silable in almost every word, which produces a very friendly melody as they speak.
 
 ### Sit
 
@@ -262,6 +280,13 @@ If you're into running, there are lots of circuits you can make in Trondheim, th
 
 If you like hiking you should definitely check [this website](https://ut.no/) to plan hikes. 
 
+### Music
+
+So what about music? 
+Well, actually I found norwegian contemporary music to be really enjoyable! Just the fact that the group D.D.E. is popular between the youth generation in Trondheim, was something I wasn't expecting. 
+Here I leave a self made [playlist on Spotify](https://open.spotify.com/playlist/0sGPPOcN5SNnIIxI5PGzZy?si=24c7a9f3a7494908), so enjoy!
+
+
 ### Aurora Borealis
 
 What many are expecting when comming to Norway. Do whatever you want, but never book a tour to watch the northern lights (I never did), but there's no greatest scam. Nobody knows with certainty when are they going to appear.
@@ -290,7 +315,7 @@ Something important to consider for your trips during Winter Semester is not to 
 
 Connections to and back in Norway are pretty bad, so plan your trip in advance and don't miss a bus, ferry or train as you might need to wait until next day to catch the next.
 
-Of course the best way to travel in Norway is by car. Rent a car if possible and get student discount with Sixt Rental. If the distance is longer, take a plane, some companies also have student discounts.
+Of course the best way to travel in Norway is by car. Rent a car if possible and get student discount with Sixt Rental. Do mind that most highways in Norway have 80 km/h as speed limit, which will make you take longer to reach your destiny. If the distance is longer, take a plane, some companies also have student discounts. 
 
 Finally, here I leave some pictures of the trips I made. Details I keep for myself as they are unique personal experiences. But feel free to ask me any questions about them on my socials.
 
@@ -325,6 +350,7 @@ Finally, here I leave some pictures of the trips I made. Details I keep for myse
 
 - Check connections before booking trips.
 - Take Tran during winter.
+- It is normal to wear a light reflectant bracelet when walking at night.
 - Ask for student discounts.
 - Plan to buy alcohol.
 - Use the AtB app to search for bus connections.
