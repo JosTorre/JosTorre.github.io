@@ -6,17 +6,17 @@ draft: false
 
 `CREATED BY JOSE TORRE`
 
-[QuanTurm](https://github.com/JosTorre/kademlia) (qT lol) is a prototype of a post-quantum secure blockchain that runs over kademlia's distributed hash table peer to peer network. 
+[QuanTurm](https://github.com/JosTorre/kademlia) (QT lol) is a prototype of a post-quantum secure blockchain that runs over Kademlia's distributed hash table peer to peer network. 
 
 ### Index
 
-[Intro](#intro)
-[Design](#design)
-[Project X-Ray](#how-does-it-work)
-[Installation](#installation)
-[Use it!](#how-to-use-it)
-[Notes](#additional-notes)
-[License](#license)
+| [Intro](#intro) |
+[Design](#design) |
+[Project X-Ray](#how-does-it-work) |
+[Installation](#installation) |
+[Use it!](#how-to-use-it) |
+[Notes](#additional-notes) |
+[License](#license) |
 
 ### Intro
 
@@ -45,7 +45,7 @@ The first part of my project was to make a post-quantum version of [LightChain](
 
 To begin, post-quantum secure signature mechanisms were researched and from them, Lattice based approaches. For this project, the main digital signature mechanism that was chosen is Falcon. Falcon offeres quick verification times, small signatures, compactness and security.
 
-Next, in order to countermeasure the data sizes produced by post-quantum keys and signatures and therefore the size of transactions and blocks, a distributed storage solution for peer to peer networks was to be used. For this project, Kademlia was chosen to be the P2P network with distributed storage on top of which the blockchain was to be developed. 
+Next, in order to countermeasure the data sizes produced by post-quantum keys and signatures and therefore the size of transactions and blocks, a distributed storage solution for peer to peer networks was to be used. For this project, [Kademlia](https://kademlia.readthedocs.io/en/latest/) was chosen to be the P2P network with distributed storage on top of which the blockchain was to be developed. 
 Kademlia posed to be a great solution since it is well documented, offers a fault-prone environment, and very quick times of information saving and querying in the network between other advantages.
 
 Following, transactions and blocks are saved separately in the network. Transactions are referenced in each block, making the whole blockchain lighter.
@@ -181,6 +181,8 @@ At the end of the simmulation, the total amount of running time as well as the s
 
 Not all of the signature schemes are supported yet. Because of either signature size or verification time the simmulation with some mechanisms might not be able to be run completely.
 Using more than 30 nodes might cause problems at the moment.
+
+I recommend running the program with *Falcon-512* as signature scheme.
 
 ### License 
 

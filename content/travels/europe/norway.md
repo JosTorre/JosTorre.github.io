@@ -3,7 +3,22 @@ title: "Norway"
 date: 2022-01-10T00:45:24+02:00
 draft: false
 ---
-
+| [Norge](#norge--noreg) |
+[Trondheim](#trondheim) |
+[Recommendations](#places-in-trondheim) |
+[Cafes](#cafés) |
+[Covid](#covid) |
+[NTNU](#ntnu) |
+[NTNUI](#ntnui) |
+[Life](#living-there) |
+[Language](#language) |
+[Sit](#sit) |
+[Costs](#general-costs) |
+[Food](#food) |
+[Alcohol](#alcohol) |
+[Winter](#winter) |
+[Aurora](#aurora-borealis) |
+[Trips](#trips) |
 ![noreg](/pics/noreg.jpg "Yea, that's me")
 
 *To the Ketchup Koiene, who made this semester unique and amazing.*
