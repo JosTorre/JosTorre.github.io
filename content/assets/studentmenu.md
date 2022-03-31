@@ -38,6 +38,8 @@ Here are my meal ideas as a student.
     - *Soy milk, banana, chia seeds, yoghurt and peanut butter (protein powder can be additionally added).*
 - __Cheese and Bread__
     - *Sliced bread with cheese. Yes, that could be a student breakfast.*
+- __Last min Cereal__
+    - *Just cereal with milk.*
 
 ## Lunch
 
@@ -63,6 +65,13 @@ Here are my meal ideas as a student.
     - *Frankfurter sausage with a curry + ketchup sauce and a slice of bread.*
 - __Tabbouleh__
     - *Libanese salad to be mixed with falafel or humus in a tortilla.*
+- __Capresse Salad__
+    - *Tomato and mozarella slices with basilico leaves and olive oil drops.*
+- __Käsekrainer__
+    - *Austrian chesse filled sausages served with Kren and bread.*
+- __Leberkässemmel__
+    - *Meatloaf sandwich with mustard (sweet or spicy).*
+
 
 ## Dinner
 

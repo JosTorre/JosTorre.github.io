@@ -18,9 +18,9 @@ So this was my first time here. I had visited other scandinavian countries, but 
 What can I say about it? 
 It is a very peaceful country, where values of honesty, trust, responsibility, and equality are specially important for the society. The country works based on honesty. Those values in my perspective rule the way of living here (from a really broad perspective). Nevertheless, something to say is that norwegians are really helpful and welcoming. Even if in most of online blogs or even if swedish people say the contrary. But I found out that their friendliness is normally misunderstood or hided by their pragmatism. 
 
-Norwegians in general are really pragmatic. For example, they won't greet you if there's nothing else important to say; they won't start a conversation if it's not needed. So at the begining, it is really hard to approach norwegians with smalltalk.
+Based on my experience during this semester, I would say that norwegians are really pragmatic. For example, they wouldn't normally greet you if there's nothing else important to say; they wouldn't start a conversation if it's not needed. So at the begining, it is really hard to approach norwegians with smalltalk.
 Nevertheless, if there's anything you need help with and you express it, they'll be happy to help and they'll make your problem their own. 
-So, be the one to take the first step if you want to befriend noregians, or go to a party. Under the influence of alcohol they totally open themselves and become friendly. Parties are the chance to make friends. If you want to understand more about norwegian culture, you should watch this [TED Talk](https://www.youtube.com/watch?v=GhA9eypocE0).
+So, be the one to take the first step if you want to befriend noregians, or go to a party. Under the influence of alcohol they are very pobably going to open themselves and become friendly. Parties are the chance to make friends. If you want to understand more about norwegian culture, you should watch this [TED Talk](https://www.youtube.com/watch?v=GhA9eypocE0).
 
 ![geirangerfjord](/pics/geiranger.jpg "Geirangerfjord")
 
