@@ -71,6 +71,14 @@ Here are my meal ideas as a student.
     - *Austrian chesse filled sausages served with Kren and bread.*
 - __Leberkässemmel__
     - *Meatloaf sandwich with mustard (sweet or spicy).*
+- __Spicy Rice Noodles__
+    - *.*
+- __Peanut Butter Noodles__
+    - *.*
+- __Bacon & Veggie Quesadilla__
+    - *.*
+- __Thai Noodle Veggies__
+    -*Fried vegetables mixed with scrambled eggs and rice noodles*
 
 
 ## Dinner
@@ -93,6 +101,11 @@ Here are my meal ideas as a student.
     - *Marinated fried shrimps in a tortilla with melted cheese, avocado and siracha mayo sauce.*
 - __Flammkuchen__
     - *Backed pizza dough with spreaded creme fraiche and bacon and onion as topping.*
+- __Mushroom Risotto__
+    - *Simple mushroom, onion, parmesan and white wine risotto.*
+- __Peanut Butter Noodles__
+    - *.*
+
 
 ## Drinks
 

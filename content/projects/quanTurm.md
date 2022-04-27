@@ -6,13 +6,13 @@ draft: false
 
 `CREATED BY JOSE TORRE`
 
-[QuanTurm](https://github.com/JosTorre/kademlia) (QT lol) is a prototype of a post-quantum secure blockchain that runs over Kademlia's distributed hash table peer to peer network. 
+[QuanTurm](https://github.com/JosTorre/kademlia) (QT) is a prototype of a post-quantum secure blockchain that runs over Kademlia's distributed hash table peer to peer network. 
 
 ### Index
 
 | [Intro](#intro) |
 [Design](#design) |
-[Project X-Ray](#how-does-it-work) |
+[How it works](#how-does-it-work) |
 [Installation](#installation) |
 [Use it!](#how-to-use-it) |
 [Notes](#additional-notes) |
@@ -20,7 +20,7 @@ draft: false
 
 ### Intro
 
-With the recent invention of quantum computers and their computing capacities, many posibilities for development arise as well as threats if their power were to be used for evil purposes. Yet if the possibility of quantum attacks on classic computers and encryption is not been normalized, the idea of *'hack today, crack tomorrow'*, makes it necessary to start developing post-quantum resistant systems.
+With the recent invention of quantum computers and their computing capacities, many posibilities for development arise as well as threats if their power were to be used for evil purposes. Yet if the possibility of quantum attacks on classic computers and encryption has not been normalized, the idea of *'hack today, crack tomorrow'*, makes it necessary to start developing post-quantum resistant systems.
 
 One of the most meaningful digital inventions in the last years is Blockchain. Based on the Bitcoin paper a new almost immutable decentralized data structure was proposed. Nevertheless, there are some flows in its design that make it not be very scalable and performant plus the possibility of making attacks over it with a strong computational power.
 
@@ -34,16 +34,16 @@ Nonetheless, the recipe for making a post-quantum secure blockchain is __not__ a
 
 Why not?
 
-Firstly, because blockchain itself has already scalability issues, each peer needs to download, save and update the whole ledger by itself, and the mining process is consumes high amounts of energy and needs great computational power.
+Firstly, because blockchain itself as a distributed ledger, has already scalability issues, each peer needs to download, save and update the whole ledger by itself, and the mining process is consumes high amounts of energy and needs great computational power.
 Secondly, the new post-quantum secure signing mechanisms require more processing power and memory. 
 
 Therefore, just mixing both solutions per se wouldn't pose a real solution for a post-quantum secure blockchain.
 
 ### Design
 
-The first part of my project was to make a post-quantum version of [LightChain](https://github.com/yhassanzadeh13/lightchain-container), as it offered quick information saving and retrieval times and a distributed storage on a peer to peer network without any mining process. Un/fortunately LightChain didn't work as described in the papers. The project on Github wasn't finished, and that made me make my own version of a post-quantum secure blockchain, taking some concepts of LightChain into my prototype.
+The first part of my project was to make a post-quantum version of [LightChain](https://github.com/yhassanzadeh13/lightchain-container), as it offered quick information saving and retrieval times and a distributed storage on a peer to peer network without any mining process. Un/fortunately LightChain didn't work as described on the papers. The project on Github wasn't finished, and that made me make my own version of a post-quantum secure blockchain, taking some concepts of LightChain into my prototype.
 
-To begin, post-quantum secure signature mechanisms were researched and from them, Lattice based approaches. For this project, the main digital signature mechanism that was chosen is Falcon. Falcon offeres quick verification times, small signatures, compactness and security.
+To begin, post-quantum secure signature mechanisms were researched and from them, Lattice based approaches. For this project, the main digital signature mechanism that was chosen is Falcon. Falcon offeres quick verification times, small signatures, compactness, and security.
 
 Next, in order to countermeasure the data sizes produced by post-quantum keys and signatures and therefore the size of transactions and blocks, a distributed storage solution for peer to peer networks was to be used. For this project, [Kademlia](https://kademlia.readthedocs.io/en/latest/) was chosen to be the P2P network with distributed storage on top of which the blockchain was to be developed. 
 Kademlia posed to be a great solution since it is well documented, offers a fault-prone environment, and very quick times of information saving and querying in the network between other advantages.
@@ -66,7 +66,7 @@ Each peer in the network is composed by classes, these make everything work.
 - __Routing:__ For communication between peers.
 - __Crawling:__ Module to obtain data about new neighbours or fetch hashed values.
 
-The algorithm that follows quanTurm is the following:
+The algorithm that follows QuanTurm is the following:
 
 1. Servers are created.
 2. Nodes are started and bootstrapped (network is formed).
@@ -89,7 +89,7 @@ The algorithm that follows quanTurm is the following:
 
 ### Installation
 
-In order to use quanTurm, there are three things you have to install/download.
+In order to use QuanTurm, there are three things you have to install/download.
 
 1. #### OQS Library
 
@@ -154,7 +154,7 @@ Just run the following command:
 pip install kademlia
 ```
 
-3. #### quanTurm itself
+3. #### QuanTurm itself
 
 Download the project from the [Github repo](https://github.com/JosTorre/kademlia) or run:
 
@@ -164,7 +164,7 @@ git clone https://github.com/JosTorre/kademlia.git
 
 ### How to use it?
 
-To run quanTurm simply co to the project's main directory and run:
+To run QuanTurm simply co to the project's main directory and run:
 
 ```
 sudo python3 othermain.py
@@ -186,4 +186,4 @@ I recommend running the program with *Falcon-512* as signature scheme.
 
 ### License 
 
-The kind of license and distribution rights of the project are going to be defined later on.
+The kind of license and distribution rights of this project are going to be defined later on.
