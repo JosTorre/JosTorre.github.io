@@ -18,6 +18,8 @@ draft: false
 [Notes](#additional-notes) |
 [License](#license) |
 
+*Special thanks to Mattia V. for his feedback on my work.*
+
 ### Intro
 
 With the recent invention of quantum computers and their computing capacities, many possibilities for development arise as well as threats if their power were to be used for evil purposes. Yet if the possibility of quantum attacks on classical cryptographic mechanisms has not been normalized, the idea of *'hack today, crack tomorrow'* makes it necessary to start developing post-quantum resistant systems.
