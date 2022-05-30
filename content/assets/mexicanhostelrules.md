@@ -32,5 +32,12 @@ If you have any inquiries or need any help please contact the admin.
 - Manners.
 - Appreciation for the Mexican culture.
 
+### Ghetto things
+
+- Burping.
+- Stink.
+- Bad hygene.
+- Peasant manners.
+
 The final cost will be informed after the stay.
 If you have any feedback or ideas please let us know, sending an email to [this address](mailto:torre.avilais@gmail.com).

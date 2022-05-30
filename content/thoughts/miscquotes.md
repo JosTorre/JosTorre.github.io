@@ -32,6 +32,7 @@ Following, my quote knowledge base:
 - *'He cannot be replaced, nor can his life be repeated. Thus, everyone's task is as unique as is his specific opportunity to implement it'* -Viktor Frankl
 - *'The existencial vacuum manifests itself mainly in a state of boredom'* - Viktor Frankl
 - *'He who has a why can bear almost any how'* -Nietsche
+- *That which we are, we are, and if we are ever to be better, now is the time to begin.* - Tennyson
 
 <!---
 <- *'The dosis makes the venom'* -unknown>

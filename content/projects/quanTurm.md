@@ -20,43 +20,43 @@ draft: false
 
 ### Intro
 
-With the recent invention of quantum computers and their computing capacities, many posibilities for development arise as well as threats if their power were to be used for evil purposes. Yet if the possibility of quantum attacks on classic computers and encryption has not been normalized, the idea of *'hack today, crack tomorrow'*, makes it necessary to start developing post-quantum resistant systems.
+With the recent invention of quantum computers and their computing capacities, many possibilities for development arise as well as threats if their power were to be used for evil purposes. Yet if the possibility of quantum attacks on classical cryptographic mechanisms has not been normalized, the idea of *'hack today, crack tomorrow'* makes it necessary to start developing post-quantum resistant systems.
 
-One of the most meaningful digital inventions in the last years is Blockchain. Based on the Bitcoin paper a new almost immutable decentralized data structure was proposed. Nevertheless, there are some flows in its design that make it not be very scalable and performant plus the possibility of making attacks over it with a strong computational power.
+One of the most meaningful digital inventions from the last years is Blockchain. Based on the Bitcoin paper, a new almost immutable decentralized data structure was proposed. Nevertheless, there are some flaws in its design that make it unscalable and weak to attacks made with a strong computational power.
 
-Some solutions have been proposed in order to make blockchains more performant or more secure, but most of them lack one of the three main characteristics: security, decentralization and scalability. New improved versions of blockchain try to improve in this characteristics but it is hard to achieve the three of them.
+Some solutions have been proposed in order to make blockchains more performant or more secure, but most of them lack one of the three main characteristics: security, decentralization or scalability. New improved versions of blockchain try to improve in these characteristics but it is hard to comply with the three of them.
 
 Adding the previously mentioned quantum threats, there is also the need of developing a post-quantum secure blockchain.
 
 Nonetheless, the recipe for making a post-quantum secure blockchain is __not__ as easy as:
 
-*Blockchain + Post-Quantum Encryption = Post-Quantum Blockchain.*
+*Blockchain + Post-Quantum Cryptography = Post-Quantum Blockchain.*
 
 Why not?
 
-Firstly, because blockchain itself as a distributed ledger, has already scalability issues, each peer needs to download, save and update the whole ledger by itself, and the mining process is consumes high amounts of energy and needs great computational power.
+Firstly, because blockchain itself as a distributed ledger, has already scalability issues, each peer needs to download, save and update the whole ledger by itself, and the mining process consumes high amounts of energy and needs great computational power.
 Secondly, the new post-quantum secure signing mechanisms require more processing power and memory. 
 
-Therefore, just mixing both solutions per se wouldn't pose a real solution for a post-quantum secure blockchain.
+Therefore, simply replacing classical cryptographic mechanisms in a blockchain with post-quantum ones is not sufficient to properly design a post-quantum secure blockchain.
 
 ### Design
 
-The first part of my project was to make a post-quantum version of [LightChain](https://github.com/yhassanzadeh13/lightchain-container), as it offered quick information saving and retrieval times and a distributed storage on a peer to peer network without any mining process. Un/fortunately LightChain didn't work as described on the papers. The project on Github wasn't finished, and that made me make my own version of a post-quantum secure blockchain, taking some concepts of LightChain into my prototype.
+The first part of my project was to make a post-quantum version of [LightChain](https://github.com/yhassanzadeh13/lightchain-container), as it offered quick information saving and retrieval times and a distributed storage on a peer to peer network without any mining process. Un/fortunately LightChain didn't work as described on the papers. The project on Github wasn't finished, and that made me develop my own version of a post-quantum secure blockchain, taking some concepts of LightChain into my prototype.
 
-To begin, post-quantum secure signature mechanisms were researched and from them, Lattice based approaches. For this project, the main digital signature mechanism that was chosen is Falcon. Falcon offeres quick verification times, small signatures, compactness, and security.
+For starters, post-quantum secure signature mechanisms were researched. From the signature mechanisms Lattice based approaches jumped off the page. Therefore for this project the main digital signature mechanism chosen was Falcon. Falcon offers quick verification times, small signatures (compactness), and security. Even though Falcon offers compactness compared to other post-quantum signature mechanisms, signature size is biger than signatures that classical signature mechanisms produce.
 
-Next, in order to countermeasure the data sizes produced by post-quantum keys and signatures and therefore the size of transactions and blocks, a distributed storage solution for peer to peer networks was to be used. For this project, [Kademlia](https://kademlia.readthedocs.io/en/latest/) was chosen to be the P2P network with distributed storage on top of which the blockchain was to be developed. 
+Next, in order to countermeasure the data sizes produced by post-quantum keys and signatures and therefore the size of transactions and blocks, a distributed storage solution for peer to peer network was chosen. For this project, [Kademlia](https://kademlia.readthedocs.io/en/latest/) was selected to be the P2P network with distributed storage on top of which the blockchain was developed. 
 Kademlia posed to be a great solution since it is well documented, offers a fault-prone environment, and very quick times of information saving and querying in the network between other advantages.
 
-Following, transactions and blocks are saved separately in the network. Transactions are referenced in each block, making the whole blockchain lighter.
+Thirdly, transactions and blocks are saved separately in the network. Transactions are referenced in each block, making the whole blockchain lighter.
 
-Finally, instead of having a mining process, the concept of PoV (Proof of Validation) is taken from LightChain, where N number of validatiors are randomly chosen based on the hash of either block or transaction. The validator earns a comission per transaction or block validation.
+Finally, instead of having a mining process, the concept of PoV (Proof of Validation) is taken from LightChain, where N number of validators are randomly chosen based on the hash of either block or transaction. The validator earns a commission per transaction or block validation.
 
 All this is just a prototype and is going to be improved. The code's concept is considered to be secure in a DApp scenario, where the code cannot be altered.
 
 ### How does it work?
 
-Each peer in the network is composed by classes, these make everything work.
+QuanTurm is coded in a class structured manner. The following classes are the backbone of this project:
 
 - __qT Blockchain:__ This class dictates how the whole blockchain works; the transaction and block creation and verification.
 - __Network:__ This class is the heighest level of each peer as a server. It provides the set() and get() methods to save and query data.
@@ -66,7 +66,9 @@ Each peer in the network is composed by classes, these make everything work.
 - __Routing:__ For communication between peers.
 - __Crawling:__ Module to obtain data about new neighbours or fetch hashed values.
 
-The algorithm that follows QuanTurm is the following:
+*Each peer can play three roles in the blockchain: Payer, Receiver and Verifier.*
+
+The roles defined in this newly designed QuanTurm blockchain operate as follows:
 
 1. Servers are created.
 2. Nodes are started and bootstrapped (network is formed).
@@ -81,11 +83,9 @@ The algorithm that follows QuanTurm is the following:
     6. Verifier node verifies the transaction and sends it back.
     7. Receiver saves the transaction to the network and saves the transaction id.
 6. If the max number of transactions per block is reached by a Receiver, it creates a block.
-7. Receiver ask for block verification, and sends the created block to a random verifier.
+7. Receiver asks for block verification, and sends the created block to a random verifier.
 8. Verifier verifies the block and sends it back.
 9. Receiver inserts the verified block into the network.
-
-*Each peer can play three roles in the blockchain: Payer, Receiver and Verifier.*
 
 ### Installation
 
@@ -164,7 +164,7 @@ git clone https://github.com/JosTorre/kademlia.git
 
 ### How to use it?
 
-To run QuanTurm simply co to the project's main directory and run:
+To run QuanTurm simply go to the project's main directory and run:
 
 ```
 sudo python3 othermain.py
@@ -173,13 +173,13 @@ sudo python3 othermain.py
 The program will ask for 3 inputs from your side:
 - Post-quantum Signature Mechanism: you must type any of the names of the given list just as it is without the quotes.
 - Number of Transactions per Block: 1 to N number of transactions needed per node to create a new block.
-- Number of Blocks: 1 to N number of blocks wanted. As soon as the number of blocks is reached, the simmulation will end.
+- Number of Blocks: 1 to N number of blocks wanted. As soon as the number of blocks is reached, the simulation will end.
 
-At the end of the simmulation, the total amount of running time as well as the storage used per node will be shown. The number of transactions and blocks created will also be shown at the end.
+At the end of the simulation, the total amount of running time as well as the storage used per node will be shown. The number of transactions and blocks created will also be shown at the end.
 
 ### Additional Notes
 
-Not all of the signature schemes are supported yet. Because of either signature size or verification time the simmulation with some mechanisms might not be able to be run completely.
+Not all of the signature schemes are supported yet. Because of either signature size or verification time, the simulation with some mechanisms might not be able to be run completely.
 Using more than 30 nodes might cause problems at the moment.
 
 I recommend running the program with *Falcon-512* as signature scheme.
