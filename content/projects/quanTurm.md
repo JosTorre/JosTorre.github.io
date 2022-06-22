@@ -18,7 +18,7 @@ draft: false
 [Notes](#additional-notes) |
 [License](#license) |
 
-*Special thanks to Mattia V. for his feedback on my work.*
+*Special thanks to Jürgen Fuß and Mattia V. for their feedback on my work.*
 
 ### Intro
 
