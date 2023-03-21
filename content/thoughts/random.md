@@ -22,3 +22,8 @@ Just some random personal notes on life.
 ## Possible Facts
 
 - Tuesday is also a good day to start.
+
+## Random lines
+
+- I read lately, and I just felt the need to start writing my own words
+- Life perception and dream description. For everyone unique and therefore a mistery. Such is the challenge to find compatibility
