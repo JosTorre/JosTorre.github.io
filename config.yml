@@ -1,4 +1,4 @@
-baseURL: https://jostorre.me/
+baseURL: https://jost.life/
 languageCode: en-us
 title: Jo's odyssey
 theme: 'PaperMod'
@@ -21,7 +21,7 @@ tocopen: false
 params:
   homeInfoParams:
     Title: There you are
-    Content: Hello there, this is my personal website. My website is an MVP, so it's normal if you find unfinished posts. It is just better to start with something than to wait ages until something is completely ready; Nothing is ever completely finished. All photos are self produced. <br> If you really want to know [about me](https://jostorre.me/about), the first thing you’ll probably want to know are my socials...
+    Content: Hello there, this is my personal website. My website is an MVP, so it's normal if you find unfinished posts. It is just better to start with something than to wait ages until something is completely ready; Nothing is ever completely finished. All photos are self produced. <br> If you really want to know [about me](https://jost.life/about), the first thing you’ll probably want to know are my socials...
   
 
   socialIcons:
