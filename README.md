@@ -1,1 +1,1 @@
-# jostorre.me
+# jost.life
