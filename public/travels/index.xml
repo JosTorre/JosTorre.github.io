@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Crazy adventures on Jo&#39;s odyssey</title>
-    <link>https://jostorre.me/travels/</link>
+    <link>https://jost.life/travels/</link>
     <description>Recent content in Crazy adventures on Jo&#39;s odyssey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Sep 2021 00:38:15 +0200</lastBuildDate><atom:link href="https://jostorre.me/travels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 00:38:15 +0200</lastBuildDate><atom:link href="https://jost.life/travels/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
