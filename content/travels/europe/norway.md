@@ -167,7 +167,7 @@ Myself I became part of Sailing and learnt a lot on the Ynglings at Trondheim's 
 NTNUI also has Bumerang, a place from which you can borrow hicking and other equipment for free as a student.
 
 But there's even more. NTNU through NTNUI offers cabins in the wilderness to students. This is called NTNUI Koiene. As a memeber of NTNUI you can book any cabin for the price of 4EUR per person. Cabins are litterally in the middle of Norway and they have no electricity nor water. There's the need of chopping wood to turn the stove on or just to heat yourself from the great cold at night. Some of the cabins have a sauna ;).
-If you want to know one of my experiences in one of these cabins read my [post on Cross Country Skiing](https://jostorre.me/assets/crossbackcountryski/).
+If you want to know one of my experiences in one of these cabins read my [post on Cross Country Skiing](https://jost.life/assets/crossbackcountryski/).
 
 ### Tips for Students
 
@@ -235,7 +235,7 @@ As mentioned before, food is expensive. There are four main supermarkets in Norw
 Nevertheless, I really like grocery shopping in Norway. I found many new things. The healthiest products from each category are marked with a green seal. Also, there are lots of healthy options: reduced fat, bio, vegan products, and protein rich products. Even though the variety of products is very small, at least you can be sure its healthy.
 So my nutrition changed completely for the third time, when I came to Norway. I adapted myself to norwagian cuisine, which according to norwegians is very *'primitive'*.
 
-I ate a lot of salmon as it was the only thing I found 'cheap' when compring the prices to the ones at home. And I must say I loved salmon fillets and smoked salmon. If you want to know more about my meals, check my [Student Menu page](https://jostorre.me/assets/studentmenu/).
+I ate a lot of salmon as it was the only thing I found 'cheap' when compring the prices to the ones at home. And I must say I loved salmon fillets and smoked salmon. If you want to know more about my meals, check my [Student Menu page](https://jost.life/assets/studentmenu/).
 
 Some norwegian specialties in case you're wondering are:
 
@@ -291,7 +291,7 @@ The best app to check the weather forecast is [YR](https://www.yr.no/).
 Being sporty in Trondheim is very easy. Sit has various GYMs in the city: Moholt, Gløshaugen, Portalen, and Dragvoll are the most known ones. If you buy the membership you'll be able to go to any of them during the whole day. They also offer different fitness clases. Inside this centers you can find basketball and even squash courts. 
 
 If you like to swim, there's Pirbadet, where you can buy a membership and go to train there, or just join NTNUI swimming group. 
-If you're into running, there are lots of circuits you can make in Trondheim, the city is just perfect for running, even during winter. Check out my page where I tell about [running in winter](https://jostorre.me/assets/winterrun/). But to check some already done circuits you can use [Komoot](https://www.komoot.com/).
+If you're into running, there are lots of circuits you can make in Trondheim, the city is just perfect for running, even during winter. Check out my page where I tell about [running in winter](https://jost.life/assets/winterrun/). But to check some already done circuits you can use [Komoot](https://www.komoot.com/).
 
 If you like hiking you should definitely check [this website](https://ut.no/) to plan hikes. 
 
