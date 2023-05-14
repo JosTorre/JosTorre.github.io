@@ -23,4 +23,5 @@ In the early days of Iceland, there were some trees, but settlers deforested and
 
 Maybe before I go forward telling about my trip, I should give some facts about Iceland that I learnt:
 
+*This blog is still being written. Come back later to find the finished version.*
 ![icelandpanorama](/pics/icelandpanorama.jpg "Panorama at Þingvellir")

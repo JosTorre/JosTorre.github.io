@@ -40,4 +40,5 @@ If you have any inquiries or need any help please contact the admin.
 - Peasant manners.
 
 The final cost will be informed after the stay.
+Find a list of things to see in Vienna [here](https://goo.gl/maps/WFfcycM159FfEbQG9).
 If you have any feedback or ideas please let us know, sending an email to [this address](mailto:torre.avilais@gmail.com).
