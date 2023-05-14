@@ -40,6 +40,8 @@ Here are my meal ideas as a student.
     - *Sliced bread with cheese. Yes, that could be a student breakfast.*
 - __Last min Cereal__
     - *Just cereal with milk.*
+- __Workout Breakfast__
+    - *Boiled eggs, cherry tomatoes, mozarella mini.*
 
 ## Lunch
 

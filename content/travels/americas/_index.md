@@ -1,5 +1,5 @@
 ---
-title: "The Americas"
+title: "America"
 date: 2022-01-12T19:32:12+01:00
 draft: false
 ---

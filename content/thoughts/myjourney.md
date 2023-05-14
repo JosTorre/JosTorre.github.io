@@ -1,5 +1,5 @@
 ---
-title: "My Journey"
+title: "My Odyssey"
 date: 2021-12-23T21:20:31+01:00
 draft: true
 ---
@@ -27,4 +27,8 @@ I feel that there is an event in my life, which detonated a bigger change on me,
 
 ## Trondheim
 
-## Now
+## In Vienna and not there
+
+## Summer 22'
+
+## Independent Person
