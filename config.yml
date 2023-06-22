@@ -37,8 +37,6 @@ params:
       url: 'https://www.paypal.me/zetorre'
     - name: Spotify
       url: 'https://open.spotify.com/user/jostorre'
-    - name: Twitter
-      url: 'https://twitter.com/zeptorre'
 
 menu:
     main:
